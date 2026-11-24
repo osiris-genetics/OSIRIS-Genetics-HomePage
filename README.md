@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="Logo_OSIRIS.png" alt="OSIRIS logo" width="420">
 
 # OSIRIS
 
