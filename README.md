@@ -49,8 +49,6 @@ Ce dépôt GitHub constitue le point d’entrée de l’association pour partage
 **Nom officiel :** Observatoire pour le Suivi de l’Innovation, de la Recherche et de l’Intelligence Semencières  
 **Sigle :** OSIRIS  
 **Statut :** Association française régie par la loi du 1er juillet 1901  
-**RNA :** W593009420  
-**Siège :** Faumont, France
 
 ---
 
@@ -91,9 +89,7 @@ This GitHub repository serves as the association’s digital entry point for ope
 
 **Official name:** Observatoire pour le Suivi de l’Innovation, de la Recherche et de l’Intelligence Semencières  
 **Acronym:** OSIRIS  
-**Legal form:** French non-profit association governed by the Law of 1 July 1901  
-**RNA registration:** W593009420  
-**Registered office:** Faumont, France
+**Legal form:** French non-profit association governed by the Law of 1 July 1901 
 
 ---
 
