@@ -1,11 +1,9 @@
 <p align="center">
-
 # OSIRIS
-
 **Observatoire pour le Suivi de l’Innovation, de la Recherche et de l’Intelligence Semencières**
 
 [Français](#français) · [English](#english)
-
+</p>
 ---
 
 ## Français
