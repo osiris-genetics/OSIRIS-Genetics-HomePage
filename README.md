@@ -1,100 +1,47 @@
-<div align="center">
+<p align="center">
 
 # OSIRIS
 
-### Observatoire pour le Suivi de l’Innovation, de la Recherche et de l’Intelligence Semencières
-
-**Science ouverte · Génétique · Sélection végétale · Innovation · Intelligence semencière**
+**Observatoire pour le Suivi de l’Innovation, de la Recherche et de l’Intelligence Semencières**
 
 [Français](#français) · [English](#english)
-</div>
 
 ---
 
 ## Français
 
-### À propos
-
-**OSIRIS** est une association française régie par la loi du 1er juillet 1901, dédiée à l’analyse et au partage des connaissances dans les domaines de la **génétique**, de la **sélection végétale**, de l’**innovation** et des **filières semencières**.
-
-L’association vise à rapprocher recherche scientifique, données publiques et compréhension des évolutions du secteur semencier. Elle s’inscrit dans une démarche de **science ouverte**, de transparence scientifique, de reproductibilité des analyses et de diffusion des connaissances.
-
-> **Observer, analyser et partager pour mieux comprendre l’innovation génétique et semencière.**
-
-### Missions
-
-OSIRIS a notamment pour objectifs de :
-
-- **produire, analyser, agréger, valoriser et diffuser** des connaissances relatives à l’innovation, à la recherche, aux ressources génétiques, à la sélection végétale et aux filières semencières ;
-- **promouvoir la science ouverte**, l’accès aux données, la transparence scientifique et le partage des connaissances ;
-- assurer une **veille scientifique, technique, réglementaire, économique et prospective** ;
-- publier des **études, analyses et indicateurs** fondés sur des données publiques ;
-- favoriser les **échanges interdisciplinaires** et la mise en réseau des chercheurs, experts, professionnels et institutions ;
-- contribuer à l’éclairage des décisions et à la compréhension des évolutions **scientifiques, technologiques, économiques et sociétales** des marchés agricoles et semenciers.
+OSIRIS est une association scientifique française régie par la loi du 1er juillet 1901. Elle étudie les évolutions de la sélection végétale et des filières semencières à partir de la littérature scientifique et de données publiquement accessibles. Son objectif est de rendre ces évolutions compréhensibles, de documenter ce que les données permettent d’établir et de favoriser les échanges entre chercheurs, sélectionneurs et autres acteurs des filières agricoles et semencières.
 
 ### Axes de travail
 
-| Génétique & sélection | Science ouverte & données | Intelligence semencière |
-| :--- | :--- | :--- |
-| Ressources génétiques, génomique, sélection végétale et méthodes quantitatives | Analyses reproductibles, code ouvert, données publiques et partage des méthodes | Veille scientifique, technologique, réglementaire, économique et prospective |
+- **Ressources génétiques et sélection végétale.** Suivre la façon dont la diversité génétique est caractérisée, conservée et mobilisée dans les programmes de sélection. Examiner les méthodes de génétique quantitative et de génomique appliquées à l’évaluation du matériel végétal et à l’estimation du progrès génétique.
+- **Recherche et innovation semencières.** Assurer une veille scientifique, technique et réglementaire. Mettre en perspective les résultats expérimentaux, leurs conditions de validation et leur portée pour la sélection ou la production de semences.
+- **Économie des filières agricoles et semencières.** Analyser des données publiques, construire des indicateurs et documenter leurs définitions, leur périmètre et leurs limites avant de comparer des périodes, des territoires ou des segments de marché.
 
 ### Science ouverte et reproductibilité
 
-Lorsque cela est juridiquement et scientifiquement possible, OSIRIS vise à accompagner ses productions des **sources de données publiques**, **méthodes**, **codes d’analyse** et éléments de documentation nécessaires à leur compréhension et à leur reproductibilité.
+OSIRIS vise à publier des études, des synthèses et des indicateurs dont les sources, les méthodes et les limites sont explicites. Les analyses distinguent les résultats expérimentaux, les associations observées et les interprétations qui nécessitent des hypothèses supplémentaires. Lorsque les droits de diffusion le permettent, les publications sont destinées à être accompagnées des références aux jeux de données, du code d’analyse et de la documentation nécessaires à leur reproduction.
 
-Cette organisation GitHub a vocation à héberger et documenter les ressources numériques, projets ouverts, outils d’analyse et travaux reproductibles développés ou diffusés par l’association.
-
-### Informations légales
-
-- **Nom officiel :** Observatoire pour le Suivi de l’Innovation, de la Recherche et de l’Intelligence Semencières
-- **Sigle :** OSIRIS
-- **Statut :** association régie par la loi du 1er juillet 1901
+Ce dépôt est celui de la page d’accueil d’OSIRIS. Il a vocation à orienter les lecteurs vers les publications, les ressources méthodologiques et les outils que l’association rendra publics.
 
 ---
 
 ## English
 
-### About
+OSIRIS is a French scientific nonprofit association governed by the Law of 1 July 1901. Drawing on the scientific literature and publicly available data, it examines developments in plant breeding and the seed sector. Its aim is to explain those developments, clarify what the available evidence supports, and foster exchange among researchers, plant breeders and others working across agriculture and the seed sector.
 
-**OSIRIS** is a French non-profit association governed by the Law of 1 July 1901 and dedicated to analysing and sharing knowledge in **genetics**, **plant breeding**, **innovation**, and the **seed sector**.
+### Areas of work
 
-The association seeks to connect scientific research, public data and a better understanding of developments across the seed sector. Its activities are grounded in **open science**, scientific transparency, reproducible analysis and knowledge sharing.
-
-> **Observe, analyse and share to better understand genetic and seed innovation.**
-
-### Mission
-
-OSIRIS aims to:
-
-- **produce, analyse, aggregate, enhance and disseminate** knowledge related to innovation, research, genetic resources, plant breeding and the seed sector;
-- **promote open science**, access to data, scientific transparency and knowledge sharing;
-- conduct **scientific, technical, regulatory, economic and forward-looking monitoring**;
-- publish **studies, analyses and indicators** based on public data;
-- foster **interdisciplinary exchange** and connections among researchers, experts, professionals and institutions;
-- contribute to informed decision-making and a better understanding of **scientific, technological, economic and societal developments** in agricultural and seed markets.
-
-### Areas of activity
-
-| Genetics & breeding | Open science & data | Seed intelligence |
-| :--- | :--- | :--- |
-| Genetic resources, genomics, plant breeding and quantitative methods | Reproducible analyses, open code, public data and methodological sharing | Scientific, technological, regulatory, economic and forward-looking monitoring |
+- **Genetic resources and plant breeding.** Review how genetic diversity is characterised, used and conserved in breeding programmes. Examine quantitative genetics and genomics methods for evaluating plant material and estimating genetic gain.
+- **Seed research and innovation.** Track scientific, technical and regulatory developments. Assess experimental findings in light of how they were validated and what they imply for plant breeding or seed production.
+- **Agricultural and seed-sector economics.** Analyse public data, develop indicators, and document their definitions, coverage and limitations before making comparisons across periods, regions or market segments.
 
 ### Open science and reproducibility
 
-Whenever legally and scientifically possible, OSIRIS aims to accompany its work with the **public data sources**, **methods**, **analysis code** and documentation required to understand and reproduce the analyses.
+OSIRIS aims to publish studies, evidence syntheses and indicators with explicit sources, methods and limitations. Analyses distinguish experimental findings from observational associations and identify interpretations that depend on additional assumptions. Where permissions allow, publications are intended to include links or references to the datasets, analysis code and documentation needed to reproduce the results.
 
-This GitHub organisation is intended to host and document the association’s digital resources, open projects, analytical tools and reproducible research outputs.
-
-### Legal information
-
-- **Official name:** Observatoire pour le Suivi de l’Innovation, de la Recherche et de l’Intelligence Semencières
-- **Acronym:** OSIRIS
-- **Legal form:** French non-profit association governed by the Law of 1 July 1901
+This is the repository for the OSIRIS homepage project. It is intended to direct readers to publications, methodological resources and tools as the association makes them publicly available.
 
 ---
 
-<div align="center">
-
-**OSIRIS** · Open science for genetics, plant breeding and seed intelligence
-
-</div>
+**Association loi 1901 / French nonprofit association** · **RNA:** `W593009420` · **Siège social / Registered office:** Faumont, France
